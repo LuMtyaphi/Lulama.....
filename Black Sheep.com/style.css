@@ -1,0 +1,16 @@
+/*.picture {
+	background-image: url("./photos//BlackLamb.jpg");
+}*/
+
+body {
+	background-image: url("./photos//BlackLamb.jpg");
+	text-align: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
